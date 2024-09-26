@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vermiscr.github.io/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/app/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/assets/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/css/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/data/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/includes/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/item/sitemap.vermiscr.gz
+Sitemap: https://vermiscr.github.io/src/sitemap.vermiscr.gz
